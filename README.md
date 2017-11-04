@@ -1,4 +1,4 @@
-# meet7202.github.io
+# lindsayeggers.github.io
 
 Personal Website
 
