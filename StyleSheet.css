@@ -188,7 +188,7 @@ input[type="color"],
     }
 
 .overlay {
-    background-color: pink;
+    background-color: #112049;
     position: absolute;
     display: block;
     width: 100%;

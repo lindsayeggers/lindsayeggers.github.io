@@ -11,7 +11,7 @@ html, body {
     line-height: 1;
     font-weight: 400;
     border: none;
-    color:#2A2929;
+    color:#1F2833;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -184,7 +184,7 @@ input[type="color"]:focus,
 }
 
 .overlay {
-    background-color:pink;
+    background-color:#112049;
     position: absolute;
     display: block;
     width: 100%;
