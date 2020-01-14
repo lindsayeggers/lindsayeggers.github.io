@@ -1,14 +1,14 @@
 
 a{
-    color:#112049;
+    color:#1F2833;
 }
 
 ::selection {
-    background:#112049;
+    background:#1F2833;
 }
 
 ::-moz-selection{
-    background:#112049;
+    background:#1F2833;
 }
 
 
@@ -28,26 +28,26 @@ input[type="search"]:focus,
 input[type="tel"]:focus,
 input[type="color"]:focus,
 .form-control:focus{
-    border: 2px solid #112049;
+    border: 2px solid #1F2833;
 }
 
 
 
 .btn-default:hover,.btn-default:active{
-    border-color:#112049 !important;
-    color:#112049;
+    border-color:#1F2833 !important;
+    color:#1F2833;
 }
 
 .btn-primary:hover,.btn-primary:active,.btn-primary:focus{
-    color:#112049;
+    color:#1F2833;
 }
 
 .navbar {
-    background-color: #112049;
+    background-color: #1F2833;
 }
 
 .navbar-custom .nav li a {
-    border-top: 3px solid #112049;
+    border-top: 3px solid #1F2833;
 }
 
 .navbar-custom .nav li.active a {
@@ -56,33 +56,33 @@ input[type="color"]:focus,
 }
 
 .section-heading h2 {
-    color: #112049;
+    color: #1F2833;
 }
 
 .progress-bar {
-    background:#112049;
+    background:#1F2833;
 }
 
 .facts-detail span {
-    color:#112049;
+    color:#1F2833;
 }
 
 .service-box-icon {
-    background:#112049;
+    background:#1F2833;
 }
 
 .portfolio-filters li {
-    border: 2px solid #112049;
+    border: 2px solid #1F2833;
 }
 
 .portfolio-filters li:hover{
-    background-color: #112049;
-    border-color:#112049;
+    background-color: #1F2833;
+    border-color:#1F2833;
 }
 
 .portfolio-filters li.active{
-    background-color:#112049;
-    border-color:#112049;
+    background-color:#1F2833;
+    border-color:#1F2833;
 }
 
 .image-overlay{
@@ -90,24 +90,24 @@ input[type="color"]:focus,
 }
 
 .cv-timeline-main:before {
-    background:#112049;
+    background:#1F2833;
 }
 
 .cv-timeline-main > li .time-icon {
-    color: #112049;
+    color: #1F2833;
 }
 
 .cv-timeline-main h4 {
-    color: #112049;
+    color: #1F2833;
 }
 
 #testimonials .owl-controls .owl-page.active span {
-    background: #112049;
+    background: #1F2833;
 }
 
 .contact-address i {
-    border: 1px solid #112049;
-    color: #112049;
+    border: 1px solid #1F2833;
+    color: #1F2833;
 }
 
 .scrollup {
@@ -119,9 +119,9 @@ input[type="color"]:focus,
 }
 
 footer {
-    background:#112049;
+    background:#1F2833;
 }
 
 footer ul.footer-social li a:hover {
-    color: #112049;
+    color: #1F2833;
 }
