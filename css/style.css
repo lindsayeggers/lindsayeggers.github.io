@@ -318,7 +318,7 @@ input[type="color"]:focus,
 
 .navbar-custom .nav li a {
     font-size:14px;
-    color:teal;
+    color:#FFF;
     padding-top:18px;
     padding-top:15px;
     -webkit-transition: background .3s ease-in-out;
@@ -331,18 +331,18 @@ input[type="color"]:focus,
 .navbar-custom .nav li.active {
     outline: 0;
     background-color:transparent;
-    color: pink;
+    color:#FFF;
 }
 
 .navbar-custom .nav li.active a{
     color:#FFF ;
-    border-top:3px solid #fff;
+    border-top:3px solid #45A29E;
 }
 
 .navbar-toggle {
     padding: 4px 6px;
     font-size: 16px;
-    color: red;
+    color: #FFF;
 }
 
 .navbar-toggle:focus,

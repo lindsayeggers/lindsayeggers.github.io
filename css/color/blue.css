@@ -94,7 +94,7 @@ input[type="color"]:focus,
 }
 
 .cv-timeline-main > li .time-icon {
-    color: #1F2833;
+    color: rgb(17, 108, 219);
 }
 
 .cv-timeline-main h4 {
