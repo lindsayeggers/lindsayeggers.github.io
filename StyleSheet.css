@@ -188,7 +188,7 @@ input[type="color"],
     }
 
 .overlay {
-    background-color: #112049;
+    background-color: #1F2833;
     position: absolute;
     display: block;
     width: 100%;
@@ -459,7 +459,7 @@ html[xmlns] .slides {
 }
 
 .slider-overlay {
-    background: rgba(0,0,0,.4);
+    background: #0B0C10;
     position: absolute;
     left: 0;
     top: 0;
